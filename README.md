@@ -1,7 +1,3 @@
-# BraTS-2020 prepared dataset.
-
-A 2D brain MRI jpeg dataset from the BraTS-2020 competition.
-
-The original dataset can be found [here](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data).
-
-License: [Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/).
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd304ce760ea5e14d1ca8d0d4050c2baa2ab44b6a43af33bf7434d2055bf1fb6
+size 283
